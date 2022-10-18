@@ -19,11 +19,17 @@ For installation please navigate to your terminal after you have cloned the repo
 
 ## Usage
 
-As for using this app, navigate once again and run "npm run build" to intiallize the dist folder, if this has not already been done. This will also intialize the
-
-Once then navigate to the client folder then to the dist folder and open index.html to use the application online. To use it offline hit the install button and open it from your desktop.
+As for using this app, navigate once again and run "npm run build" to intiallize the dist folder, if this has not already been done. This will also intialize the application. To use the application online navigate to localhost/3000. To use it offline hit the install button and open it from your desktop.
 
 ## Images and Links:
+
+Repo Link:
+
+https://github.com/MarkBrooks1985/mb-text-editior
+
+Heroku Link:
+
+https://afternoon-wildwood-45916.herokuapp.com/
 
 ![This is an image](/assets/images/1.png)
 ![This is an image](/assets/images/2.png)
