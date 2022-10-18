@@ -24,3 +24,6 @@ As for using this app, navigate once again and run "npm run build" to intiallize
 Once then navigate to the client folder then to the dist folder and open index.html to use the application online. To use it offline hit the install button and open it from your desktop.
 
 ## Images and Links:
+
+![This is an image](/assets/images/1.png)
+![This is an image](/assets/images/2.png)
